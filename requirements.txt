@@ -1,0 +1,6 @@
+flask
+pandas
+requests
+jsonify
+sqlalchemy
+flask_jwt_extended
