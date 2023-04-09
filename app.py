@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from process import process_data
 import csv
-import login
+
 
 app = Flask(__name__)
 
